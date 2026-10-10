@@ -1,0 +1,16 @@
+.env
+.vscode/
+__pycache__/
+.venv/
+*.pyc
+*.pyo
+output/*
+!output/.gitkeep
+*.egg-info/
+dist/
+.pytest_cache/
+.DS_Store
+Thumbs.db
+node_modules/
+artifacts/
+cache/
